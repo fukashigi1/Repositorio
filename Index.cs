@@ -19,4 +19,7 @@ public class Index{
     public void setTitulo(string titulo){
         this.titulo = titulo;
     }
+    public int getTodo(){
+        return elementos;
+    }
 }

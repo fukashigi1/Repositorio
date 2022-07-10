@@ -11,4 +11,4 @@ namespace Proyecto{
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
         }
     }
-}//hola mierda
+}
