@@ -8,6 +8,7 @@ namespace Proyecto{
             Console.WriteLine(index2.Metodo2(3));
             caca.Metodo();
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
+            Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
         }
     }
 }//hola mierda
