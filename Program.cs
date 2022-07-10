@@ -10,6 +10,7 @@ namespace Proyecto{
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
             //Porfavor tio
+            //IMAGINEMOS QUE AGREGÉ MUCHO CODIGO XD
         }
     }
 }//hola mierda
