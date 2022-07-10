@@ -9,6 +9,8 @@ namespace Proyecto{
             caca.Metodo();
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
+            //Porfavor tio
         }
     }
-}
+}//hola mierda
+//sexual
