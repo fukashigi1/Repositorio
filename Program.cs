@@ -10,7 +10,8 @@ namespace Proyecto{
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
             Console.WriteLine(index.getElementos() + " y " + index.getTitulo());
             //Porfavor tio
-            //IMAGINEMOS QUE AGREGÉ MUCHO CODIGO XD
+            //IMAGINEMOS QUE AGREGÉ MUCHO CODIGO XD (ESTO FUE MODIFICADO DE VISUAL CODE)
+            //ESto fue agregado del visual code y 
         }
     }
 }//hola mierda
